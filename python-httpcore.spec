@@ -21,3 +21,5 @@ thing only. Sending HTTP requests.
 %files
 %doc README.md CHANGELOG.md
 %license LICENSE.md
+%{python_sitelib}/httpcore-%{version}.dist-info
+%{python_sitelib}/httpcore/
