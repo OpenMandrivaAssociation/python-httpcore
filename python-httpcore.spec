@@ -10,6 +10,7 @@ URL:        https://pypi.org/project/httpcore
 Source0:    https://files.pythonhosted.org/packages/source/h/httpcore/httpcore-%{version}.tar.gz
 BuildArch:  noarch
 BuildRequires:  pkgconfig(python)
+BuildRequires:  python3dist(hatchling)
 BuildSystem: python
 
 %description
