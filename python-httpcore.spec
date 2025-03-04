@@ -11,6 +11,7 @@ Source0:    https://files.pythonhosted.org/packages/source/h/httpcore/httpcore-%
 BuildArch:  noarch
 BuildRequires:  pkgconfig(python)
 BuildRequires:  python3dist(hatchling)
+BuildRequires:  python3dist(hatch-fancy-pypi-readme)
 BuildSystem: python
 
 %description
