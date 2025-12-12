@@ -2,7 +2,7 @@
 
 Name:       python-%{pypi_name}
 Version:    1.0.7
-Release:    1
+Release:    2
 Summary:    A minimal low-level HTTP client
 Group:      Development/Python
 License:    BSD
