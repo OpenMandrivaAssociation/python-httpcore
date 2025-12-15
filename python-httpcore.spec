@@ -1,8 +1,8 @@
 %define pypi_name httpcore
 
 Name:       python-%{pypi_name}
-Version:    1.0.7
-Release:    2
+Version:    1.0.9
+Release:    1
 Summary:    A minimal low-level HTTP client
 Group:      Development/Python
 License:    BSD
