@@ -9,9 +9,8 @@ License:    BSD
 URL:        https://pypi.org/project/httpcore
 Source0:    https://files.pythonhosted.org/packages/source/h/httpcore/httpcore-%{version}.tar.gz
 BuildArch:  noarch
-BuildRequires:  pkgconfig(python)
-BuildRequires:  python3dist(hatchling)
-BuildRequires:  python3dist(hatch-fancy-pypi-readme)
+BuildRequires:  python%{pyver}dist(hatchling)
+BuildRequires:  python%{pyver}dist(hatch-fancy-pypi-readme)
 BuildSystem: python
 
 %description
